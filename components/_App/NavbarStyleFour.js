@@ -52,7 +52,7 @@ const NavbarStyleFour = () => {
           <div className="container">
             <nav className="navbar navbar-expand-md navbar-light">
               <Link href="/it-startup" className="navbar-brand">
-                <Image src={logo} alt="logo" width={110} height={36} />
+                <Image src={logo} alt="logo" width={200} />
               </Link>
 
               <button
