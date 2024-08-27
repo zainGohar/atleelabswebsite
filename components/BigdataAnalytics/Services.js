@@ -18,11 +18,11 @@ const Services = () => {
       <div className="bigdata-services-area ptb-80 bg-eef6fd">
         <div className="container">
           <div className="section-title">
-            <h2>Services We Can Help You With</h2>
+            <h2>Products We Have Shipped So Far</h2>
             <div className="bar"></div>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            We are not just a services company, we are the founders of these amazing products. 
+            Explore <span style={{textDecoration:'underline',cursor:"pointer"}}>FULL list</span>  of Products.
             </p>
           </div>
 

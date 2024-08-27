@@ -19,8 +19,7 @@ const Team = () => {
             <h2>Our Awesome Team</h2>
             <div className="bar"></div>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Our vision is to save time and made human life easy by embedding AI in everything. And we are doing with this team. Explore the <span style={{textDecoration:'underline',cursor:"pointer"}}>Full Team</span>
             </p>
           </div>
         </div>

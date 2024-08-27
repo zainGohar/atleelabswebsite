@@ -17,7 +17,7 @@ const MainBanner = () => {
               data-aos-duration="500"
               data-aos-once="true"
             >
-              Leading Big Data Analytics Company
+              Convert Your AI Imaginations into AI Apps In 30 Days
             </h1>
 
             <p
@@ -26,9 +26,8 @@ const MainBanner = () => {
               data-aos-duration="500"
               data-aos-once="true"
             >
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis
-              ipsum suspendisse ultrices gravida.
+              You want to bring your AI ideas in life?
+              You want to embed AI in your apps?
             </p>
 
             <Link
@@ -39,7 +38,7 @@ const MainBanner = () => {
               data-aos-duration="500"
               data-aos-once="true"
             >
-              Get Started
+              Lets connect
             </Link>
           </div>
         </div>
@@ -58,10 +57,10 @@ const MainBanner = () => {
                   <div className="icon">
                     <Icon.Server />
                   </div>
-                  <h3>Analyze Your Data</h3>
+                  <h3>Custom AI Use Cases</h3>
                   <p>
-                    Lorem ipsum dolor sit amet elit, adipiscing, sed do eiusmod
-                    tempor incididunt ut labore dolore magna aliqua.
+                  We embed AI in everything we do.
+                  Atlee labs helps organizations and individuals with tailored solutions to bring their imagination into realities.  
                   </p>
                 </div>
               </div>
@@ -77,10 +76,9 @@ const MainBanner = () => {
                   <div className="icon">
                     <Icon.Code />
                   </div>
-                  <h3>Customized Plan</h3>
+                  <h3>Case Studies</h3>
                   <p>
-                    Lorem ipsum dolor sit amet elit, adipiscing, sed do eiusmod
-                    tempor incididunt ut labore dolore magna aliqua.
+                  Atlee Labs has solved many trending problems in AI already. Lets explore…
                   </p>
                 </div>
               </div>
@@ -96,10 +94,9 @@ const MainBanner = () => {
                   <div className="icon">
                     <Icon.Users />
                   </div>
-                  <h3>Implement Solution</h3>
+                  <h3>Why and How 30 days</h3>
                   <p>
-                    Lorem ipsum dolor sit amet elit, adipiscing, sed do eiusmod
-                    tempor incididunt ut labore dolore magna aliqua.
+                  At Atlee, we believe in shipping fast and <span style={{ textDecoration: 'underline',cursor:"pointer" }}>MVP</span> should not take more than 30 days to hit markets. Here is <span style={{ textDecoration: 'underline',cursor:"pointer" }}>why</span>?
                   </p>
                 </div>
               </div>

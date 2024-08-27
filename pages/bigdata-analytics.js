@@ -13,7 +13,9 @@ import NewsletterStyleTwo from "@/components/Common/NewsletterStyleTwo";
 import Footer from "@/components/_App/Footer";
 import BlogPostStyleThree from "@/components/Common/BlogPostStyleThree";
 import Partner from "@/components/DigitalAgencyPortfolio/Partner";
-
+import CopyServices from "@/components/BigdataAnalytics/Services copy";
+import Services2 from "@/components/BigdataAnalytics/Services2";
+import 'bootstrap/dist/css/bootstrap.min.css';
 const BigdataAnalytics = () => {
   return (
     <>
@@ -26,6 +28,8 @@ const BigdataAnalytics = () => {
       {/* <DiscoverArea /> */}
 
       <Services />
+      <CopyServices/>
+      <Services2/>
 
       <TeamStyleTwo />
 

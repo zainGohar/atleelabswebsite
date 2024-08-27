@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import * as Icon from "react-feather";
 
-import logo from "/public/images/logo.png";
+
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -21,10 +21,9 @@ const Footer = () => {
               data-aos-once="true"
             >
               <div className="single-footer-widget">
-                <div className="logo">
-                  <Link href="/">
-                    <Image src={logo} alt="logo" width={110} height={36} />
-                  </Link>
+                <div/>
+                <div className="single-footer-widget ps">
+                <h3>Bring Your AI Ideas into AI Apps in 30 Days.</h3>
                 </div>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
@@ -43,7 +42,7 @@ const Footer = () => {
               data-aos-once="true"
             >
               <div className="single-footer-widget ps-5">
-                <h3>Products</h3>
+                <h3>Projects</h3>
 
                 <ul className="list">
                   <li>
@@ -64,6 +63,7 @@ const Footer = () => {
                 </ul>
               </div>
             </div>
+            
 
             <div
               className="col-lg-3 col-md-6"
@@ -108,14 +108,19 @@ const Footer = () => {
                 <ul className="footer-contact-info">
                   <li>
                     <Icon.MapPin />
-                    27 Division St, New York, <br /> NY 10002, USA
+                    US: 2055 Limestone Rd Ste 200c,
+Wilmington, <br /> DE 19808, US
+                  </li>
+                  <li>
+                    <Icon.MapPin />
+                    UK: basement flat, 11 tredegar square, London, <br /> E3 5AD, United Kingdom
+                  </li>
+                  <li>
+                    <Icon.MapPin />
+                    PK: 346-Ferozpur Road Lahore, 9th Floor,  <br />Arfa Karim Tower Lahore 
                   </li>
 
-                  <li>
-                    <Icon.Mail />
-                    Email:{" "}
-                    <a href="mailto:startp@gmail.com">startp@gmail.com</a>
-                  </li>
+                 
 
                   {/* <li>
                     <Icon.PhoneCall />

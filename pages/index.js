@@ -13,6 +13,8 @@ import Partner from "@/components/Common/Partner";
 import BlogPost from "@/components/Common/BlogPost";
 import Footer from "@/components/_App/Footer";
 import BigdataAnalytics from "./bigdata-analytics";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 const Index = () => {
   return (
